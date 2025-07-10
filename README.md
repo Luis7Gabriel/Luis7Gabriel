@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Luis Gabriel
 
-<!--
-**Luis7Gabriel/Luis7Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+🚀 Em busca da minha primeira oportunidade profissional  
+💻 Apaixonado por tecnologia, desenvolvimento web e aprendizado contínuo  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou estudando e utilizando:
+
+- React.js  
+- Node.js  
+- JavaScript / TypeScript  
+- HTML5 & CSS3  
+- Git e GitHub  
+- Express.js  
+- MySQL  
