@@ -12,6 +12,5 @@
 - Node.js  
 - JavaScript / TypeScript  
 - HTML5 & CSS3  
-- Git e GitHub  
-- Express.js  
+- Git  
 - MySQL  
